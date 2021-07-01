@@ -1,0 +1,23 @@
+{
+  "name": "setup-html",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zt4ff/setup-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zt4ff/setup-html/issues"
+  },
+  "homepage": "https://github.com/zt4ff/setup-html#readme",
+  "bin": {
+    "setup-html": "./index.sh"
+  }
+}
